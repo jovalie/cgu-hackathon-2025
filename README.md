@@ -1,6 +1,6 @@
 # CGU Hackathon 2025
 
-Blow are links the to ChatGPT LLM models. 
+Below are links the to ChatGPT LLM models. 
 
 ## Class.AÍ
 [Access to Class.AÍ](https://gooey.ai/2/kRPE) (Prompt 3)

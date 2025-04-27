@@ -1,0 +1,83 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+      "title": "ERIC Metadata Search",
+      "description": "Retrieves metadata from the ERIC database based on search queries.",
+      "version": "v1.0.0"
+    },
+    "servers": [
+      {
+        "url": "https://api.ies.ed.gov"
+      }
+    ],
+    "paths": {
+      "/eric/": {
+        "get": {
+          "description": "Search ERIC metadata records based on provided query parameters.",
+          "operationId": "SearchERICMetadata",
+          "parameters": [
+            {
+              "name": "search",
+              "in": "query",
+              "description": "Search string for core fields (title, author, source, subject, description) or specific fields using advanced syntax.",
+              "required": false,
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "name": "format",
+              "in": "query",
+              "description": "Specify the response format: xml (default), json, or csv.",
+              "required": false,
+              "schema": {
+                "type": "string",
+                "enum": ["xml", "json", "csv"],
+                "default": "xml"
+              }
+            },
+            {
+              "name": "start",
+              "in": "query",
+              "description": "Starting record number for pagination.",
+              "required": false,
+              "schema": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            {
+              "name": "rows",
+              "in": "query",
+              "description": "Number of records to return (1–2000). Default is 20.",
+              "required": false,
+              "schema": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 2000
+              }
+            },
+            {
+              "name": "fields",
+              "in": "query",
+              "description": "Comma-separated list of fields to include in the response (e.g., title, author, description).",
+              "required": false,
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful retrieval of ERIC metadata records."
+            }
+          },
+          "deprecated": false
+        }
+      }
+    },
+    "components": {
+      "schemas": {}
+    }
+  }
+  

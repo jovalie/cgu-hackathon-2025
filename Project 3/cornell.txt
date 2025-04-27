@@ -1,0 +1,132 @@
+# Ethical AI for Teaching and Learning
+
+For both instructors and students, it is important to understand, evaluate, and overall familiarize yourself with the uses of generative artificial intelligence tools, whether you decide to incorporate their use into your course or not. Engaging with generative A.I. tools means using a thoughtful, critical and ethical lens to determine whether their use will benefit your assignments and assessments, as well as considering how your students may independently be trying to engage with these tools in their learning, either productively or in ways that may challenge their work's academic integrity.
+
+For faculty and students alike, this engagement process encompasses recognizing when and how generative AI is used in various domains, assessing the reliability and validity of AI-generated outputs, identifying the ethical and social implications stemming from the design and use of generative AI applications, and creating and communicating with generative AI systems in appropriate ways.
+
+Building literacy in Generative AI includes addressing ethics, privacy, and equity with intention.
+
+There are many open questions, including legal questions, regarding the ethical design, development, use, and evaluation of generative AI in teaching and learning. While generative AI may potentially be powerfully useful, concerns and sensitivities surround a number of key issues including:
+
+- **Environmental impact**: As generative AI tools are trained with ever larger data sets, requiring more and more energy consumption, what is the energy use impact on the environment?
+
+- **Diversity, non-discrimination and fairness**: How can we ensure that tools avoid unfair bias and are universally accessible?
+
+- **Privacy, data governance, technical robustness and safety**: How is user data or copyrighted material used, stored, or shared? Who has access to user data? (European Commission, 2022).
+
+Researchers and educators have begun outlining multiple ways to encourage, practice, and support ethical and responsible use of generative AI in the classroom (Dwivedi et al, 2023). Drawing from these resources, in the sections that follow, we spotlight different ways to think through the use of generative AI in teaching and learning.
+
+## Ethics & Equity
+
+Not all technologies impact all users in the same way. Some student populations may be at greater risk of harm than others (Ga?evi? et al., 2023). Human and systemic biases in generative AI algorithms and large language models' (LLMs) data impact the output of AI tools and consequently can perpetuate inequities when these biases are not removed or addressed.
+
+# Generative Artificial Intelligence
+
+In Spring 2024, with a goal of inspiring other instructors through the sharing of new ideas, methods, and strategies at Cornell, five faculty were recognized for their creative classroom experiences and teaching implementations using - or creatively precluding use of - generative AI. Learn about the projects here: [Teaching Innovation Case Studies: Creative Responses to Generative AI](https://teaching.cornell.edu/teaching-spotlight/teaching-innovation-case-studies/creative-responses-generative-ai)
+
+Since the release of new generative artificial intelligence (AI) tools, including ChatGPT, we have all been navigating our way through both the landscape of AI in education and its implications for teaching. As we adapt to these quickly evolving tools and observe how students are using them, many of us are still formulating our own values around what this means for our classes.
+
+Our CTI resources aim to provide support on what these tools are and how they work. We'll address common concerns and considerations in the context of AI, such as academic integrity, accessibility, and ethical uses of the technology. We'll also explore practical applications and pedagogical strategies for teaching and assignment design as you determine what approaches and policies regarding AI are the right fit for your classes.
+
+- [Cornell University Committee Report on Generative Artificial Intelligence for Education and Pedagogy](https://teaching.cornell.edu/generative-artificial-intelligence/cu-committee-report-generative-artificial-intelligence-education)
+- [What is Generative Artificial Intelligence (AI)?](https://teaching.cornell.edu/generative-artificial-intelligence#what-is-generative-artificial-intelligence-ai)
+- [How Will Generative AI Affect Higher Education?](https://teaching.cornell.edu/generative-artificial-intelligence#how-will-generative-ai-affect-higher-education)
+- [The Upside: Possibilities for Generative AI to Benefit Learning Environments](https://teaching.cornell.edu/generative-artificial-intelligence#the-upside-possibilities-for-generative-ai-to-benefit-learning-environments)
+- [Generative AI Literacy](https://teaching.cornell.edu/generative-artificial-intelligence#generative-ai-literacy)
+- [Stay Engaged and Informed](https://teaching.cornell.edu/generative-artificial-intelligence#stay-engaged-and-informed)
+
+## What is Generative Artificial Intelligence (AI)?
+
+Generative artificial intelligence is a subset of AI that utilizes machine learning models to create new, original content, such as images, text, or music, based on patterns and structures learned from existing data. A prominent model type used by generative AI is the large language model (LLM).
+
+An LLM, like ChatGPT, is a type of generative AI system that can produce natural language texts based on a given input, such as a prompt, a keyword, or a query. LLMs typically consist of millions or billions of parameters that are "trained" on massive amounts of text data, such as books, articles, websites, and social media posts, and can perform various tasks, such as answering questions, summarizing texts, writing essays, creating captions, and generating stories. LLMs can also learn from their own outputs and are likely to improve over time.
+
+It's important to note that while LLMs can answer questions and provide explanations, they are not human and thus do not have knowledge or understanding of the material they generate. Rather, LLMs generate new content based on patterns in existing content, and build text by predicting most likely words.
+
+Because of how LLMs work, it is possible for these tools to generate content, explanations, or answers that are untrue. LLMs may state false facts as true because they do not truly understand the fact and fiction of what they produce. These generated fictions presented as fact are known as "hallucinations."
+
+
+# AI & Academic Integrity
+
+Although the Artificial Intelligence (AI) landscape is evolving rapidly, one clear impact is that this technology is already being integrated into the academic lives of both students and faculty. As a result, all instructors should consider how they will provide clear guidelines concerning the use of generative AI in academic work for every class they teach.
+
+Here are a few things to keep in mind when addressing AI and academic integrity in your course.
+
+## Clearly Communicate Your Expectations
+
+Students benefit from clearly communicated expectations for their coursework, and will likewise benefit from transparency regarding limits to and expectations for use of generative AI in their course assignments and exams.
+
+To reduce the chance of violations of academic integrity, explicitly communicate your course's generative AI policies by:
+
+- Including in your syllabus clear expectations regarding the use of generative AI tools and any differentiation in the usage policy for specific assignments.
+  - Clearly identify in what situations generative AI use is prohibited or permitted.
+  - When generative AI is permitted, faculty should be clear about student expectations in terms of documentation and attribution, as well as what work is expected to be produced by the student themselves, and how the student is expected to validate or verify output from generative AI.
+
+## Example Course Policy Language for Generative AI Use
+
+As you plan your syllabus and course policies with respect to generative AI, consider modifying the following language to communicate a general position in your syllabus. Please note that the following sample language reflects general, course-level perspectives on broadly permitting or prohibiting the use of generative AI tools. For sample statements at the assignment-level, see AI in Assignment Design.
+
+### Prohibiting Generative AI Use in Your Course
+
+> "To ensure development and mastery of the foundational concepts and skills in this course, the use of generative artificial intelligence (AI) tools is prohibited. If you are unsure of any policy or any assignment-specific directions-including whether or not a tool is considered generative AI-please consult the instructor prior to using the technology or completing your assignment.
+>
+> In acknowledgement that AI is impacting our field, please know that appropriate and ethical use of generative AI tools will likely be a part of other courses in your academic program."
+
+### Permitting Generative AI Use with Attribution in Your Course
+
+> "Mastering the essential, foundational concepts of this course takes effort and practice. Accordingly, the use of generative artificial intelligence (AI) tools is generally discouraged in this course, but will be permitted for select assignments. Whether or not generative AI assistance is permitted for each assignment will be explicitly communicated when that assignment is introduced.
+>
+> If used in any capacity for an assignment, generative AI requires proper attribution for any and all generated work. As AI-generated materials are not retrievable by graders--and there is not a person to whom the work can be attributed--students should attribute directly quoted text to the creator of the generative AI tool used (e.g., cite OpenAI when directly quoting ChatGPT). This attribution should be used for both in-text citations and your reference list.
+>
+> Example: When prompted with, "Is it ethical to use generative AI without proper attribution?" ChatGPT indicated, "Using generative AI without proper attribution can be considered ethically problematic, as it raises issues related to intellectual property, transparency, and honesty" (OpenAI, 2023).
+>
+> Reference  
+> OpenAI. (2023). ChatGPT (Aug 10 GPT-3.5 version) [Large language model]. https://chat.openai.com
+>
+> For full details on how to properly cite AI-generated work, please see the APA Style article, How to Cite ChatGPT.
+>
+> Regardless of whether or not the use of generative AI is permitted or prohibited for an assignment, it is critical that you adhere to our communicated course policy (and Cornell's policy) on academic integrity. If you are unsure of any policy or any assignment-specific directions-including whether or not a tool is considered generative AI-please consult the instructor prior to using the technology or completing your assignment."
+
+### Encouraging Generative AI Use with Attribution in Your Course
+
+> "The use of generative artificial intelligence (AI) tools is encouraged on identified assignments. The directions for each assignment in this course will clearly indicate whether or not the use of generative AI is permitted for that assignment.
+>
+> If used at all, generative AI requires proper attribution for any generated work. As AI-generated materials are not retrievable by graders--and there is not a person to whom the work can be attributed--students should attribute directly quoted text to the creator of the generative AI tool used (e.g., cite OpenAI when directly quoting ChatGPT). This attribution should be used for both in-text citations and your reference list.
+>
+> Example: When prompted with, "Is it ethical to use generative AI without proper attribution?" ChatGPT indicated, "Using generative AI without proper attribution can be considered ethically problematic, as it raises issues related to intellectual property, transparency, and honesty" (OpenAI, 2023).
+>
+> Reference  
+> OpenAI. (2023). ChatGPT (Aug 10 GPT-3.5 version) [Large language model]. https://chat.openai.com
+>
+> For full details on how to properly cite AI-generated work, please see the APA Style article, How to Cite ChatGPT.
+>
+> Regardless of whether or not the use of generative AI is permitted or prohibited for an assignment, it is critical that you adhere to our communicated course policy (and Cornell's policy) on academic integrity. If you are unsure of any policy or any assignment-specific directions-including whether or not a tool is considered generative AI-please consult the instructor prior to using the technology or completing your assignment."
+
+### Permitting Generative AI Use on an Assignment-by-Assignment Basis
+
+> "Policies concerning the use of generative artificial intelligence (AI) tools will be decided on an assignment-by-assignment basis. These policies will be clearly communicated alongside other details of each specific assignment.
+>
+> As generative AI technologies evolve, class policies with respect toward the use of generative AI tools may be shaped by in-class discussions regarding the fair use of AI and its implications on careers in this field.
+>
+> Regardless of whether or not the use of generative AI is permitted or prohibited for an assignment, it is critical that you adhere to our communicated course policy (and Cornell's policy) on academic integrity. If you are unsure of any policy or any assignment-specific directions-including whether or not a tool is considered AI-please consult the instructor prior to using the technology or completing your assignment."
+
+# AI & Accessibility
+
+Accessibility means ensuring all learners, including students with disabilities and other challenges to learning, can access and engage with all course materials, activities, and assessments. Employing the [Universal Design for Learning (UDL)](https://teaching.cornell.edu/universal-design-learning) can help make your course more accessible. UDL is a teaching approach and course design framework that works to accommodate the needs and abilities of all learners and can help eliminate unnecessary hurdles in the learning process. It's important to ensure that your course materials can be used with a robust set of technologies to ensure that you are creating an equitable space for all learners. For ideas and guidance on how to make your course more accessible, see [CTI's Accessibility Guide](https://teaching.cornell.edu/accessibility-guide).
+
+The rise of generative artificial intelligence (AI) technologies introduces a new facet to making courses accessible. In fact, when thoughtfully employed, generative AI can function as an accessibility resource. Below are a few examples of what that may look like, and how to ensure that generative AI is contributing to your creation of a more accessible course.
+
+## Using Generative AI to Create More Accessible Content
+
+Adjusting your courses to address the potential use of generative AI tools does not necessarily mean backtracking on progress you may have made in creating a more accessible course. Instead, consider how you can leverage AI to help re-design elements of the course and to address academic integrity concerns, while still maintaining the flexibility and variety provided by the UDL framework.
+
+## Follow Accessibility Guidelines
+
+It's important to ensure that basic accessibility principles and practices are applied when using generative AI in the classroom. For example:
+
+- AI-generated content should have alt text for images, headings to break up long chunks of text, and clear language, etc.
+- When learners are required to use AI for an assignment, the AI tool itself should be keyboard navigable and accessible to assistive technologies such as screen readers.
+
+For more detailed information, you can visit the original page: [AI & Accessibility](https://teaching.cornell.edu/generative-artificial-intelligence/ai-accessibility).
+
+
